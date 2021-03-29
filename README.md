@@ -1,5 +1,5 @@
 # Git Flow Exercise
-
+Welcome Team
 An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/). This exercise will walk your team through a full release cycle for an example application.
 
 ## Background
